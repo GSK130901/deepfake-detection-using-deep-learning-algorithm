@@ -3,3 +3,4 @@ This is a fake video detection project which aims to identify manipulated videos
 that integrates Convolutional Neural Networks (CNN) and Long Short-Term Memory (LSTM) 
 networks. The model is trained on labelled video datasets, distinguishing between real and fake 
 videos.
+python manage.py -runserver
